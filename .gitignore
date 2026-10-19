@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+env/
+.env
+capture_log.txt
+*.pcap
